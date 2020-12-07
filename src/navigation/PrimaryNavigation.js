@@ -24,13 +24,13 @@ export default createStackNavigator({
         height: Platform.OS === 'ios' ? 70 : 70 - 24,
         margin: 0
       },
-      headerTitle: 'Rozova',
+      headerTitle: 'Brestie',
       headerTitleStyle: {
         fontWeight: 'bold',
         margin: 0,
         padding: 0
       },
-      title: 'Rozova'
+      title: 'Brestie'
     }),
     screen: DrawerNavigation
   }

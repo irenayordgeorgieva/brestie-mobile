@@ -10,5 +10,8 @@
       "javascript",
       "javascriptreact"
     ],
-    "eslint.packageManager": "yarn"
+    "eslint.packageManager": "yarn",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
   }
